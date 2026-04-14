@@ -52,9 +52,9 @@ A **multi-output autoregressive** approach is used for future forecasting:
 ## 📁 Project Structure
 
 ```
-├── Latest_New_GDP_YoY.ipynb        # Quarterly GDP forecasting model
-├── Latest_New_CPI_YoY.ipynb        # Monthly total CPI forecasting model
-├── Latest_New_CPI_Core_YoY.ipynb   # Monthly core CPI forecasting model
+├── GDP_YoY.ipynb                   # Quarterly GDP forecasting model
+├── CPI_YoY.ipynb                   # Monthly total CPI forecasting model
+├── CPI_Core_YoY.ipynb              # Monthly core CPI forecasting model
 ├── Quarterly_data_new.csv          # Quarterly input data
 ├── Monthly_data_new.csv            # Monthly input data
 ├── GDP_Results.csv                 # GDP forecast output
